@@ -1,2 +1,7 @@
 # hello-world
-Get another repository 
+
+Hi Friends ! 
+
+
+Mohammed Parvez here 
+I have had just created new project for me, 
